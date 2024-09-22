@@ -3,7 +3,7 @@
 # Fördjupning i Pythonprogrammering
 
 ## Målet
-Detta projekt syftar till att använda Windows Task Scheduler för att schemalägga ett Python-program att exekveras vid en vald tidpunkt.
+Detta projekt är utformat för att automatisera datainsamling och lagring genom att hämta data från antingen en lokal CSV-fil eller en Web API, och sedan lagra informationen i en SQL Server-databas. Genom att använda Windows Task Scheduler kan Python-programmet schemaläggas för att köras vid en bestämd tidpunkt varje dag, vilket säkerställer att datat uppdateras automatiskt och att den senaste informationen alltid finns tillgänglig i databasen.
 
 ## Instruktioner
 Pythonprogrammet kan bearbeta data, till exempel genom att:
