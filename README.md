@@ -44,7 +44,8 @@ Koden är väl dokumenterad och följer konventioner för kodstandarder, inklusi
   - `pandas`
   - `logging`
   - `sqlite3` (eller annan SQL-modul beroende på din databas)
-  - Eventuellt ytterligare bibliotek för att hantera API-anrop, till exempel `requests`.
+  - Eventuellt ytterligare bibliotek för att hantera API-anrop, till exempel `requests`
+  - `pytest`.
 
 ## Installation och användning
 1. Klona detta repository:
