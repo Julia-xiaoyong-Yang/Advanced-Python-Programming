@@ -1,0 +1,11 @@
+2024-09-22 13:04:07:INFO:Starting pipeline test...
+2024-09-22 13:04:07:INFO:Starting pipeline test.
+2024-09-22 13:04:07:INFO:Data from CSV file has been read.
+2024-09-22 13:04:07:INFO:Data fetching test passed.
+2024-09-22 13:04:07:INFO:Convert the 'Period' column to datatime and delete 'Series_title_5' column, removed 'BDCQ' and 'BDC' from 'Series_reference' and 'Subject' respectively.
+2024-09-22 13:04:07:INFO:Data cleaning test passed.
+2024-09-22 13:04:07:INFO:Connecting to database: C:/Users/charmingstar/dev/business-financial-data-june-2024-quarter.db
+2024-09-22 13:04:07:INFO:Database connected successfully: C:/Users/charmingstar/dev/business-financial-data-june-2024-quarter.db
+2024-09-22 13:04:08:INFO:Data saved to table 'my_table' successfully.
+2024-09-22 13:04:08:INFO:SQL table updated successfully.
+2024-09-22 13:04:08:INFO:All tests passed successfully.
