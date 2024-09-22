@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import logging
+import pytest
 import os
 import pandas as pd
 from api_data import API
